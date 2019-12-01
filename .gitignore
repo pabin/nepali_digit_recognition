@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#emacs temp files
+*~
+*#*
+*#*#
+
+*node_modules*
+
+*.less
+*.scss
+
+# ignore locale binary .mo file
+*.mo
+.vscode/settings.json
+.idea/encodings.xml
+.idea/misc.xml
+.idea/fleetos.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/workspace.xml
+
+# ignore logs folder
+logs/
